@@ -35,10 +35,6 @@ This project includes various visualizations to illustrate the trends in vaccine
 
 This Healthcare Trends Analysis project demonstrates the importance of data analysis in public health. By understanding vaccination trends, stakeholders can implement targeted strategies to improve vaccine distribution and ultimately enhance public health outcomes during influenza seasons.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Data Source: [CDC API](https://data.cdc.gov/resource/e5zk-7tx5.csv)
